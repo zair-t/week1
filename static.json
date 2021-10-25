@@ -1,7 +1,7 @@
 {
   "headers":{
     "/*":{
-      "X-Author": "zair_t"
+      "X-Author": "zair_t",
       "Access-Control-Allow-Origin": "*"
     }
   }
